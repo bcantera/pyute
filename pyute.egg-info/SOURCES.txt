@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+pyute.egg-info/PKG-INFO
+pyute.egg-info/SOURCES.txt
+pyute.egg-info/dependency_links.txt
+pyute.egg-info/requires.txt
+pyute.egg-info/top_level.txt
